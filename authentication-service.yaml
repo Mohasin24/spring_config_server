@@ -1,4 +1,2 @@
-spring:
-  config:
-    import:
-      - optional: auth-common.yaml
+jwt:
+  secret: mohasin
