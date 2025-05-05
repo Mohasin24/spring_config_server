@@ -1,4 +1,4 @@
 spring:
   config:
     import:
-      - optional: auth-common.yml
+      - optional: auth-common.yaml
