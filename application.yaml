@@ -1,3 +1,6 @@
+jwt:
+  secret: mohasin
+  
 eureka:
   instance:
     prefer-ip-address: true
